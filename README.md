@@ -6,7 +6,7 @@ This is a simple book reading list application created as part of a tutorial by 
 
 **Delete Books:** Remove books from your list when you've completed them or no longer wish to track them.
 
-### Technologies used
+### Technologies Used
 - HTML
 - CSS
 - JavaScript
