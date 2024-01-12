@@ -1,4 +1,4 @@
-## Project Description 
+### Project Description 
 This is a simple book reading list application created as part of a tutorial by NetNinja. The project utilizes HTML, CSS, and JavaScript to provide a straightforward and interactive platform for managing your book collection.
 
 ### Features
